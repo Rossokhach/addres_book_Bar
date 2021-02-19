@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef7bec7b-c215-4255-9b44-9dbee6285494" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sand/sand.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sand/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sand/src/main/java/ru/stqa/pft/sandbox/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sand/src/main/java/ru/stqa/pft/sandbox/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sand/src/test/java/ru/stqa/pft/sandbox/SquareTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../../address_book/target/" />
+    <ignored path="$PROJECT_DIR$/sand/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,40 +37,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/GroupCreationsTests.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../address_book/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+            <state relative-caret-position="357">
+              <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sand/src/test/java/ru/stqa/pft/sandbox/SquareTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#isElementPresent#0;class#GroupCreationsTests#0" />
-                <element signature="e#1829#1881#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../address_book/TestQA.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../address_book/pom.xml">
+        <entry file="file://$PROJECT_DIR$/sand/src/main/java/ru/stqa/pft/sandbox/Square.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../address_book/address_book.iml">
+        <entry file="file://$PROJECT_DIR$/sand/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sand/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sand/sand.iml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sand/src/main/java/ru/stqa/pft/sandbox/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,6 +115,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/GroupCreationsTests.java" />
+        <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/GroupDeletionTest.java" />
+        <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/TestBase.java" />
+        <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeletionTest.java" />
+        <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/tests/TestBase.java" />
+        <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/model/GroupData.java" />
+        <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/appmanager/SessionHelper.java" />
+        <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/appmanager/NavigationHelper.java" />
+        <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/appmanager/HelperBase.java" />
+        <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/appmanager/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/appmanager/GroupHelper.java" />
+        <option value="$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/tests/GroupModificationTest.java" />
+        <option value="$PROJECT_DIR$/sand/pom.xml" />
+        <option value="$PROJECT_DIR$/sand/src/test/java/ru/stqa/pft/sandbox/SquareTests.java" />
       </list>
     </option>
   </component>
@@ -84,16 +144,25 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sand" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="TestQA" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TestQA" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="535" />
-    <option name="y" value="32" />
-    <option name="width" value="1161" />
+    <option name="x" value="-8" />
+    <option name="y" value="2" />
+    <option name="width" value="1666" />
     <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -115,29 +184,59 @@
             </path>
             <path>
               <item name="addres_book_Bar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="address_book" type="462c0819:PsiDirectoryNode" />
+              <item name="sand" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addres_book_Bar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sand" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addres_book_Bar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="address_book" type="462c0819:PsiDirectoryNode" />
+              <item name="sand" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addres_book_Bar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sand" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addres_book_Bar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sand" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addres_book_Bar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sand" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addres_book_Bar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="address_book" type="462c0819:PsiDirectoryNode" />
+              <item name="sand" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addres_book_Bar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="address_book" type="462c0819:PsiDirectoryNode" />
+              <item name="sand" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addres_book_Bar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sand" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,15 +248,25 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613739340508" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613766226934" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="15" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../address_book/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_pft/sandbox" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.stqa.pft.sandbox" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.stqa.pft.addressbook.appmanager" />
+      <recent name="ru.stqa.pft.addressbook" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -171,7 +280,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.SquareTests.testArea">
+    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
+      <module name="sand" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="addres_book_Bar" />
       <option name="VM_PARAMETERS" />
@@ -219,16 +341,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupCreationsTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GroupModificationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestQA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupCreationsTests" />
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.tests.GroupModificationTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sand" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.sandbox" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.SquareTests" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTests.testArea" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sand" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.sandbox" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.SquareTests" />
+      <option name="METHOD_NAME" value="testArea" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.stqa.pft.addressbook.tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook.tests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <properties />
       <listeners />
       <method v="2">
@@ -237,7 +409,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.GroupCreationsTests" />
+        <item itemvalue="TestNG.SquareTests.testArea" />
+        <item itemvalue="TestNG.SquareTests" />
+        <item itemvalue="Application.MyFirstProgram" />
+        <item itemvalue="TestNG.GroupModificationTest" />
+        <item itemvalue="TestNG.ru.stqa.pft.addressbook.tests" />
       </list>
     </recent_temporary>
   </component>
@@ -252,29 +428,45 @@
       <option name="presentableId" value="Default" />
       <updated>1613398148021</updated>
       <workItem from="1613398152026" duration="1799000" />
-      <workItem from="1613737992936" duration="983000" />
+      <workItem from="1613737992936" duration="13322000" />
+      <workItem from="1613765635956" duration="495000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GroupCreationsTests - 2021.02.15 at 17h 19m 53s.xml">
+    <history-entry file="GroupCreationsTests - 2021.02.19 at 22h 24m 04s.xml">
       <configuration name="GroupCreationsTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GroupCreationsTests - 2021.02.19 at 15h 34m 01s.xml">
+    <history-entry file="GroupCreationsTests - 2021.02.19 at 22h 24m 28s.xml">
       <configuration name="GroupCreationsTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GroupCreationsTests - 2021.02.19 at 15h 34m 36s.xml">
-      <configuration name="GroupCreationsTests" configurationId="TestNG" />
+    <history-entry file="ru_stqa_pft_addressbook_tests - 2021.02.19 at 22h 24m 53s.xml">
+      <configuration name="ru.stqa.pft.addressbook.tests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GroupCreationsTests - 2021.02.19 at 15h 35m 34s.xml">
-      <configuration name="GroupCreationsTests" configurationId="TestNG" />
+    <history-entry file="GroupModificationTest - 2021.02.19 at 22h 42m 26s.xml">
+      <configuration name="GroupModificationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GroupCreationsTests - 2021.02.19 at 15h 39m 58s.xml">
-      <configuration name="GroupCreationsTests" configurationId="TestNG" />
+    <history-entry file="GroupModificationTest - 2021.02.19 at 22h 57m 47s.xml">
+      <configuration name="GroupModificationTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SquareTests - 2021.02.19 at 23h 10m 08s.xml">
+      <configuration name="SquareTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SquareTests - 2021.02.19 at 23h 11m 01s.xml">
+      <configuration name="SquareTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SquareTests - 2021.02.19 at 23h 11m 27s.xml">
+      <configuration name="SquareTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SquareTests_testArea - 2021.02.19 at 23h 14m 25s.xml">
+      <configuration name="SquareTests.testArea" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SquareTests - 2021.02.19 at 23h 17m 59s.xml">
+      <configuration name="SquareTests" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2782000" />
+    <option name="totallyTimeSpent" value="15616000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -286,10 +478,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="535" y="32" width="1161" height="1039" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="2" width="1666" height="1039" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3342416" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31506848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -298,8 +489,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33554083" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4392936" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955848" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.36975718" />
@@ -310,12 +501,12 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3289183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24968395" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.249066" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32996207" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32938978" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.1253406" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.25404733" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -328,30 +519,268 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/GroupCreationsTests.java">
+    <entry file="file://$PROJECT_DIR$/../../address_book/TestQA.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../address_book/address_book.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/model/GroupData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../address_book/test.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="245.625" y="382.0">ru.stqa.pft.addressbook.tests.GroupDeletionTest</node>
+            <node x="104.5" y="112.0">ru.stqa.pft.addressbook.appmanager.ApplicationManager</node>
+            <node x="68.625" y="382.0">ru.stqa.pft.addressbook.tests.GroupCreationsTests</node>
+            <node x="0.0" y="0.0">ru.stqa.pft.addressbook.appmanager.GroupHelper</node>
+            <node x="161.0" y="0.0">ru.stqa.pft.addressbook.appmanager.SessionHelper</node>
+            <node x="322.0" y="0.0">ru.stqa.pft.addressbook.appmanager.NavigationHelper</node>
+            <node x="132.5" y="280.0">ru.stqa.pft.addressbook.tests.TestBase</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ru.stqa.pft.addressbook.appmanager.ApplicationManager" target="ru.stqa.pft.addressbook.appmanager.SessionHelper">
+              <point x="-15.875" y="-59.0" />
+              <point x="215.625" y="92.0" />
+              <point x="196.25" y="92.0" />
+              <point x="-35.25" y="26.0" />
+            </edge>
+            <edge source="ru.stqa.pft.addressbook.tests.TestBase" target="ru.stqa.pft.addressbook.appmanager.ApplicationManager">
+              <point x="49.5" y="-26.0" />
+              <point x="281.0" y="255.0" />
+              <point x="295.0" y="255.0" />
+              <point x="63.5" y="59.0" />
+            </edge>
+            <edge source="ru.stqa.pft.addressbook.tests.GroupDeletionTest" target="ru.stqa.pft.addressbook.tests.TestBase">
+              <point x="36.5" y="-15.0" />
+              <point x="355.125" y="357.0" />
+              <point x="305.75" y="357.0" />
+              <point x="74.25" y="26.0" />
+            </edge>
+            <edge source="ru.stqa.pft.addressbook.appmanager.ApplicationManager" target="ru.stqa.pft.addressbook.appmanager.NavigationHelper">
+              <point x="111.125" y="-59.0" />
+              <point x="342.625" y="92.0" />
+              <point x="439.5" y="92.0" />
+              <point x="47.0" y="26.0" />
+            </edge>
+            <edge source="ru.stqa.pft.addressbook.tests.GroupCreationsTests" target="ru.stqa.pft.addressbook.tests.TestBase">
+              <point x="39.25" y="-15.0" />
+              <point x="186.375" y="357.0" />
+              <point x="206.75" y="357.0" />
+              <point x="-24.75" y="26.0" />
+            </edge>
+            <edge source="ru.stqa.pft.addressbook.appmanager.ApplicationManager" target="ru.stqa.pft.addressbook.appmanager.GroupHelper">
+              <point x="-47.625" y="-59.0" />
+              <point x="183.875" y="72.0" />
+              <point x="117.5" y="72.0" />
+              <point x="47.0" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="189.0" y="174.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/appmanager/NavigationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#isElementPresent#0;class#GroupCreationsTests#0" />
-            <element signature="e#1829#1881#0" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../address_book/TestQA.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../address_book/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/appmanager/HelperBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        <state relative-caret-position="255">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../address_book/address_book.iml">
+    <entry file="file://$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeletionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="3" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/appmanager/SessionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/appmanager/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#2104#2105#0" expanded="true" />
+            <element signature="e#2129#2130#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
+            <element signature="e#1827#1828#0" expanded="true" />
+            <element signature="e#1950#1951#0" expanded="true" />
+            <element signature="e#1989#1990#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationsTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/appmanager/GroupHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1221#1222#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
+            <element signature="e#1313#1314#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../address_book/src/test/java/ru/stqa/pft/addressbook/tests/GroupModificationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../address_book/allure-results/af724ced-3ce9-4481-aaf6-06e8c75ad2a6-container.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Java_pft/sandbox/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Java_pft/sandbox/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Java_pft/sandbox/sandbox.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Java_pft/sandbox/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sand/sand.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sand/src/main/java/ru/stqa/pft/sandbox/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sand/src/main/java/ru/stqa/pft/sandbox/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sand/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../address_book/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sand/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sand/src/test/java/ru/stqa/pft/sandbox/SquareTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -405,11 +834,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>TestQA</last-edited>
+          <last-edited>sand</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
