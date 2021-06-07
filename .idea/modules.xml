@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../address_book/TestQA.iml" filepath="$PROJECT_DIR$/../../address_book/TestQA.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/addres_book_Bar/address_book/TestQA.iml" filepath="$USER_HOME$/Downloads/addres_book_Bar/address_book/TestQA.iml" />
       <module fileurl="file://$PROJECT_DIR$/sand/sand.iml" filepath="$PROJECT_DIR$/sand/sand.iml" />
     </modules>
   </component>

@@ -11,8 +11,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sand" target="1.5" />
-      <module name="TestQA" target="1.5" />
+      <module name="sand" target="8" />
+      <module name="TestQA" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

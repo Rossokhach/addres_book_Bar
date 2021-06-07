@@ -8,8 +8,9 @@
       <list>
         <option value="$PROJECT_DIR$/../../address_book/pom.xml" />
         <option value="$PROJECT_DIR$/sand/pom.xml" />
+        <option value="$USER_HOME$/Downloads/addres_book_Bar/address_book/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="15" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK" />
 </project>
