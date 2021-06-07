@@ -240,7 +240,7 @@
       <recent name="ru.stqa.pft.addressbook" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GroupCreationsTests.testGroupCreations">
+  <component name="RunManager" selected="TestNG.GroupModificationTest">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
       <module name="sand" />
@@ -464,8 +464,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.GroupCreationsTests.testGroupCreations" />
         <item itemvalue="TestNG.GroupModificationTest" />
+        <item itemvalue="TestNG.GroupCreationsTests.testGroupCreations" />
       </list>
     </recent_temporary>
   </component>
