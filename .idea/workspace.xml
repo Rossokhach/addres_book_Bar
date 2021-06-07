@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef7bec7b-c215-4255-9b44-9dbee6285494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sand/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sand/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sand/sand.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sand/sand.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sand/target/classes/ru/stqa/pft/sandbox/Equation.class" beforeDir="false" afterPath="$PROJECT_DIR$/sand/target/classes/ru/stqa/pft/sandbox/Equation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sand/target/classes/ru/stqa/pft/sandbox/MyFirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/sand/target/classes/ru/stqa/pft/sandbox/MyFirstProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sand/target/classes/ru/stqa/pft/sandbox/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/sand/target/classes/ru/stqa/pft/sandbox/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sand/target/classes/ru/stqa/pft/sandbox/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/sand/target/classes/ru/stqa/pft/sandbox/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sand/target/test-classes/ru/stqa/pft/sandbox/EquationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/sand/target/test-classes/ru/stqa/pft/sandbox/EquationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sand/target/test-classes/ru/stqa/pft/sandbox/SquareTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/sand/target/test-classes/ru/stqa/pft/sandbox/SquareTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,9 +99,6 @@
       </expand>
       <select />
     </treeState>
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
