@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef7bec7b-c215-4255-9b44-9dbee6285494" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sand/src/test/java/ru/stqa/pft/sandbox/EquationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/sand/src/test/java/ru/stqa/pft/sandbox/EquationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +240,7 @@
       <recent name="ru.stqa.pft.addressbook" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GroupCreationsTests">
+  <component name="RunManager" selected="TestNG.ContactData">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
       <module name="sand" />
@@ -298,6 +297,23 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.model.ContactData" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -462,9 +478,11 @@
       <item itemvalue="TestNG.SquareTests.testArea" />
       <item itemvalue="TestNG.GroupCreationsTests.testGroupCreations" />
       <item itemvalue="TestNG.GroupModificationTest" />
+      <item itemvalue="TestNG.ContactData" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ContactData" />
         <item itemvalue="TestNG.GroupModificationTest" />
         <item itemvalue="TestNG.GroupCreationsTests.testGroupCreations" />
       </list>
