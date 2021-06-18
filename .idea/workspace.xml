@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ef7bec7b-c215-4255-9b44-9dbee6285494" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sand/src/test/java/ru/stqa/pft/sandbox/EquationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/sand/src/test/java/ru/stqa/pft/sandbox/EquationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +241,7 @@
       <recent name="ru.stqa.pft.addressbook" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GroupModificationTest">
+  <component name="RunManager" selected="TestNG.GroupCreationsTests">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
       <module name="sand" />
@@ -459,8 +460,8 @@
       <item itemvalue="TestNG.GroupDeletionTest.testGroupDelitions" />
       <item itemvalue="TestNG.SquareTests" />
       <item itemvalue="TestNG.SquareTests.testArea" />
-      <item itemvalue="TestNG.GroupModificationTest" />
       <item itemvalue="TestNG.GroupCreationsTests.testGroupCreations" />
+      <item itemvalue="TestNG.GroupModificationTest" />
     </list>
     <recent_temporary>
       <list>

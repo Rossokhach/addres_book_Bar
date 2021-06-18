@@ -4,6 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class EquationTest {
+
     @Test
     public void test0() {
         Equation e = new Equation(1, 1, 1);
